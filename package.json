@@ -1,0 +1,25 @@
+{
+  "name": "escape-room-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisCaeyers/escape-room-test.git"
+  },
+  "author": "Denis Caeyers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisCaeyers/escape-room-test/issues"
+  },
+  "homepage": "https://github.com/DenisCaeyers/escape-room-test#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
